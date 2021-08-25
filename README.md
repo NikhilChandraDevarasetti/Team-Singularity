@@ -9,3 +9,4 @@ https://www.kaggle.com/nikkich9/derbi-hackathon-retinal-fundus-image-dataset/cod
 Download the dataset from given link and execute .ipynb file
 ### Note
 Dont run the training cell in code if you are running inference or testing only
+** If you want to test just keep the saved weights file named "resnet50.pth" in the same folder as that of code file. 
