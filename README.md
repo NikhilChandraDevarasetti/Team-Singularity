@@ -5,3 +5,6 @@ Chech out the folder for pytorch implementations. These implementations are desi
 ### Data Set
 Check out data sets in the given link 
 https://www.kaggle.com/nikkich9/derbi-hackathon-retinal-fundus-image-dataset/code?datasetId=1551037&sortBy=dateRun&tab=profile
+### Execution Procedure
+Download the dataset from given link 
+Execute .ipynb file
