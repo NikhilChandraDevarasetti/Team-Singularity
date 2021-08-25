@@ -7,3 +7,5 @@ Check out data sets in the given link
 https://www.kaggle.com/nikkich9/derbi-hackathon-retinal-fundus-image-dataset/code?datasetId=1551037&sortBy=dateRun&tab=profile
 ### Execution Procedure
 Download the dataset from given link and execute .ipynb file
+### Note
+Dont run the training cell in code if you are running inference or testing only
